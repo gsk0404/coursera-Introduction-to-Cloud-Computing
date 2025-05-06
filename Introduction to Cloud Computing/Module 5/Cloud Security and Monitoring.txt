@@ -1,0 +1,15 @@
+1. What are the three main areas that cloud monitoring assesses?
+Answer: Data, applications, and infrastructure
+
+2. What does data encryption do?
+Answer: Scrambles data in a way that makes the data illegible
+
+3. What is the purpose of cloud directory services?
+Answer: Securely manage user profiles and their credentials
+
+4. What does a distributed-denial-of-service (DDoS) attack do?
+Answer: A DDoS attack targets the server in the enterprise by overloading it with traffic from multiple synchronized systems
+
+5. Which is another element of cloud security?
+Answer: Cloud network security
+

@@ -1,0 +1,29 @@
+1. Fill in the blank. _____________ is a key part of an enterprise’s digital transformation strategy.
+   Answer: Cloud computing
+
+2. Which of the following are some best practices organizations must follow to protect their cloud resources and systems?
+   Answer: Adopt a shared responsibility model of active monitoring for security and compliance
+
+3. Which of the following are key Identity and Access Management (IAM) components?
+   Answer: Cloud Directory Services, Audits, and Compliance
+
+4. Which of these statements is true of cloud encryption?
+   Answer: A, B, and C only
+
+5. Identify some of the standard cloud monitoring best practices from the provided options.
+   Answer: Leverage end-user experience monitoring solutions to capture the performance of an application from the point of    view of its end users and track the usage and cost of your cloud resources and services.
+
+6. What are some of the monitoring tools that help you to gain insights about your posture, compliance, and threats?
+   Answer: Flow logs from the network and security events
+
+7. What are some of the benefits of using access groups?
+   Answer: The use of access groups helps to reduce the number of policies in an account. Access groups provide a more    streamlined way to assign access rights.
+
+8. Identify the two main parts of an encryption system from the provided options.
+   Answer: The encryption algorithm and decryption key
+
+9. What are some of the benefits that cloud monitoring solutions offer?
+   Answer: Accelerate the diagnosis and resolution of performance incidents and provide proactive notifications of abnormal    or unusual situations., Troubleshoot applications and infrastructure
+
+10. The Weather Company migrated its weather web property to a secure, scalable, and global architecture in the IBM Cloud.      What benefits did they realize as a result of this migration?
+    Answer: Harness local data centers to minimize latency for users and optimize their systems for elasticity in handling      extreme spikes in demand

@@ -1,0 +1,14 @@
+1. Cloud computing is a key part of an enterprise’s digital transformation strategy. True or false.
+Answer: True
+
+2. What are some best practices organizations need to follow in order to protect their cloud resources and systems? Select two.
+Answer:Adopt a shared responsibility model, Active monitoring for security and compliance
+
+3. Which of the following are key components of Identity and Access Management (IAM)? Select two.
+Answer:Audit and Compliance, Cloud Directory Services
+
+4. Which of these statements is true of cloud encryption?
+Answer: A, B, and C only
+
+5. Identify some of the standard cloud monitoring best practices from the provided options. Select two.
+Answer:Leverage end-user experience monitoring solutions to capture the performance of an application from the point of view of its end users, Track usage and cost of your cloud resources and services
