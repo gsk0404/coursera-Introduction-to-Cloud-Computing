@@ -1,0 +1,14 @@
+1. Question 1
+Answer: Direct Attached
+
+2. Question 2
+Answer: NFS
+
+3. Question 3
+Answer: Can only be attached to one node at a time
+
+4. Question 4
+Answer: You cannot run operating systems or databases
+
+5. Question 5
+Answer: A distributed server network

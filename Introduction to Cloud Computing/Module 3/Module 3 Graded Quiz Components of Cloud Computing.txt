@@ -1,0 +1,30 @@
+
+1. Question 1
+Answer: Unique physical locations with one or more data centers
+
+2. Question 2
+Answer: Cost savings
+
+3. Question 3
+Answer: Reserved virtual servers
+
+4. Question 4
+Answer: High performance and secure
+
+5. Question 5
+Answer: Security Groups or SGs
+
+6. Question 6
+Answer: Preventing malicious code in one container from impacting other containers
+
+7. Question 7
+Answer: Direct Attached storage
+
+8. Question 8
+Answer: File storage can be mounted on multiple compute nodes at the same time
+
+9. Question 9
+Answer: Applications that need consistent fast access to the disk, such as databases
+
+10. Question 10
+Answer: You can directly use Object Storage without attaching it to a compute node

@@ -1,0 +1,17 @@
+1. Question 1
+Answer: Region
+
+2. Question 2
+Answer: Oracle VirtualBox
+
+3. Question 3
+Answer: Transient or Spot VMs
+
+4. Question 4
+Answer: They are physical servers that can be customized to a specified capacity
+
+5. Question 5
+Answer: Subnets
+
+6. Question 6
+Answer: An executable unit of software in which application code is packaged along with its libraries and dependencies, allowing it to be run anywhere
