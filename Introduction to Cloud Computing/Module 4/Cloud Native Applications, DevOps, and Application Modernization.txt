@@ -1,0 +1,8 @@
+1.Which of the following is a development principle for cloud-native applications?
+  Correct Answer: Containerize the microservices for maximum flexibility, scalability, and portability.
+
+2.Which of the following statements describes the DevOps approach and process?
+  Correct Answer: A collaborative approach where business owners and development, operations, and quality assurance teams     collaborate to deliver software continuously.
+
+3.Which of the provided options encapsulates the complete application modernization journey?
+  Correct Answer: The journey from monolithic and service-oriented architecture to microservices architecture, from     physical servers and VMs to cloud infrastructure, and from the waterfall and agile methodology to DevOps.

@@ -1,0 +1,14 @@
+1.What is serverless computing?
+  Correct Answer: An approach to computing that offloads responsibility for common infrastructure management tasks.
+
+2.What is the microservices architecture approach?
+  Correct Answer: An approach in which a single application consists of many loosely coupled and independently deployable   smaller components or services.
+
+3.Which of the following lists all three microservices communication methods?
+  Correct Answer: APIs, event streaming, and message brokers.
+
+4.Which of the following contains the two environments where a hybrid cloud environment connects?
+  Correct Answer: Public and private clouds.
+
+5.Which of the following options describes a multi-cloud strategy?
+  Correct Answer: Cloud adoption strategy.
