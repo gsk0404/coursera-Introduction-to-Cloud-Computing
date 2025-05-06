@@ -1,0 +1,19 @@
+1.Networks, servers, storage, applications, and services.
+
+2.Enable multiple operating systems to run alongside each other and separate VMs logically
+
+3.Software as a service and development platforms
+
+4.Hardware failures do not result in data loss because of backups maintained on the network
+
+5.Oracle Cloud
+
+6.Google Cloud Platform (GCP)
+
+7.Data-driven decisions
+
+8.Establishment of a scalable hosting platform for low-latency delivery
+
+9.Provides the resources to store and process the data produced by IoT devices and users.
+
+10.Blockchain provides a decentralized source of truth, AI powers analytics and decision-making, and the cloud provides globally distributed computing resources
