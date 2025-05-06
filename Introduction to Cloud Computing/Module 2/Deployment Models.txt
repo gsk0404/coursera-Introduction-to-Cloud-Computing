@@ -1,0 +1,10 @@
+1. Question 1
+Correct answers:Disaster recovery, data protection, and business continuity ,
+Reducing time-to-market for products and services
+
+2. Question 2
+Correct answer:The public and private cloud services can understand each other’s APIs, configuration, data formats, and forms of authentication and authorization
+
+3. Question 3
+Correct answer:Leverage usage of systems directly controlled by organization
+

@@ -1,0 +1,29 @@
+1. Question 1
+Answer: SaaS
+
+2. Question 2
+Answer: Virtual Machines
+
+3. Question 3
+Answer: Dependency on a third party for workload availability and performance
+
+4. Question 4
+Answer: Application code and its maintenance
+
+5. Question 5
+Answer: APIs for services
+
+6. Question 6
+Answer: Applications reside on a remote cloud network
+
+7. Question 7
+Answer: Users don’t own the servers their applications run on
+
+8. Question 8
+Answer: Application portability
+
+9. Question 9
+Answer: Hybrid Cloud
+
+10. Question 10
+Answer: You can leverage public cloud instances for a period of time but return to the private cloud when the surge is met
